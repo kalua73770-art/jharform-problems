@@ -25,7 +25,7 @@ export default function Home() {
             Har Problem Ka <span className="text-primary">Pakka Solution</span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground">
-            Bharat ke 10 Categories ke 300+ Solutions. Tech, Mobile, Bank, ya Zindagi - apni bhasha mein jawab paayein.
+            Bharat ke 10 Categories ke 500+ Solutions. Tech, Mobile, Bank, ya Zindagi - apni bhasha mein jawab paayein.
           </p>
         </div>
 
