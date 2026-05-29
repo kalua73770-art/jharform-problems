@@ -1,6 +1,6 @@
 export const heroStats = [
   { value: "10", label: "Categories" },
-  { value: "300+", label: "Solutions" },
+  { value: "500+", label: "Solutions" },
   { value: "Hindi", label: "Mein" },
 ] as const;
 
