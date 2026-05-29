@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://problems.jharform.in/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://problems.jharform.in/problems/mobile/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/google/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/payment/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/document/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/network/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/whatsapp/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/apps/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/computer/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/real-life/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://problems.jharform.in/problems/home/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  
+  <url><loc>https://problems.jharform.in/problems/mobile/internet-nahi-chal-raha/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/mobile/battery-drain/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/google/gmail-login-issue/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/google/play-store-pending/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/payment/upi-failed/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/payment/refund-nahi-mila/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/document/income-pending/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/document/aadhaar-mismatch/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/network/jio-internet-slow/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://problems.jharform.in/problems/whatsapp/account-banned/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

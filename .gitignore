@@ -1,0 +1,9 @@
+node_modules
+/.next/
+/dist/
+/out/
+.env.local
+*.log
+*.lock
+.replit-artifact/
+
