@@ -9,7 +9,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.4.1"
+    "@emailjs/browser": "^4.4.1",
+    "@vercel/analytics": "^2.0.1"
   },
   "devDependencies": {
     "@hookform/resolvers": "^3.10.0",
