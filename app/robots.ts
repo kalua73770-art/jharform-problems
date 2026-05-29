@@ -17,8 +17,6 @@ export default function robots(): MetadataRoute.Robots {
     },
     sitemap: [
       'https://problems.jharform.in/sitemap.xml',
-      'https://problems.jharform.in/sitemap-articles.xml',
-      'https://problems.jharform.in/sitemap-categories.xml',
     ],
   }
 }
